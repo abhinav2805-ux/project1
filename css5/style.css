@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+#container{
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap; */
+    align-items: center;
+    align-content: center;
+    
+}
+#red{
+    /* align-self:flex-start; */
+    flex-basis: 150px;
+    flex-shrink: 3;
+}
+#container div{
+    height: 50px;
+    width: 200px;
+  
+    text-align: center;
+    color: white;
+   
+}

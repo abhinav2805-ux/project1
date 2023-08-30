@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    text-decoration: wavy purple underline;
+    letter-spacing: 3px;
+    font-weight: 900;
+    font-size: 76px;
+}
+p{
+    text-decoration: dashed underline;
+    line-height: 1.5;
+    font-size: 36px;
+
+}
+a{
+    text-decoration: none;
+}

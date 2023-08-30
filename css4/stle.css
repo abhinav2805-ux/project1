@@ -1,0 +1,14 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    /* transform: rotate(9deg);
+    transform: scale(0.5,1); */
+    /* transform:translate(300px,90px); */
+    /* transform: skew(50deg); */
+    /* transform: rotate(45deg) translate(70px,87px)   ; */
+    box-shadow: 4px 4px 10px black;
+    background-image: url("f.jpg.jpg");
+    background-size: cover;
+}

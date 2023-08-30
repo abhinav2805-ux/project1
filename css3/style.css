@@ -1,0 +1,25 @@
+div{
+    height: 200px;
+    width: 400px;
+    background-color: lightpink;
+    border-color:red;
+    border-style: double;
+    border-width: 4px;
+    border-right: 4px purple solid;
+    border-radius: 20px;
+    /* border-bottom-right-radius: 38%; */
+    padding-left: 35px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+h1{
+    
+    border:6px green dashed;
+    display: inline;
+    margin-bottom:50px;
+}
+button{
+    padding: 8px;
+
+}
